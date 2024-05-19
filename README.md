@@ -45,4 +45,18 @@ The backend of our application utilizes the `llama_index` library to create a se
 
 - **Search Capability**: The indexed data allows our application to perform quick and efficient searches across the entire corpus of documents. Users can input natural language queries, which are then matched against the indexed data to retrieve the most relevant information.
 
+this is the first example  prompt : providing suggest Tours with prices if exixts 
+
+![App Screenshot](https://github.com/HafsaBoussaboun/Hackathon_IntelliTech/blob/main/Screenshoot/2.jpeg?raw=true)
+
+the answer is : 
+
+![App Screenshot](https://github.com/HafsaBoussaboun/Hackathon_IntelliTech/blob/main/Screenshoot/1.jpeg?raw=true)
+
+the second example : 
+
+![App Screenshot](https://github.com/HafsaBoussaboun/Hackathon_IntelliTech/blob/main/Screenshoot/3.jpeg?raw=true)
+
+![App Screenshot](https://github.com/HafsaBoussaboun/Hackathon_IntelliTech/blob/main/Screenshoot/4.jpeg?raw=true)
+
 
