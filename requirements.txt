@@ -1,0 +1,10 @@
+llama-index==0.10.37
+transformers==4.39.3
+accelerate
+bitsandbytes
+llama-index-readers-web
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-program-openai
+llama-index-agent-openai
+sentence-transformers==2.2.2
